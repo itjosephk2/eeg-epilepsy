@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data: never commit EEG recordings
+data/*
+!data/README.md
+*.edf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated plots
+*.png
+!docs/*.png
