@@ -21,7 +21,7 @@ I have epilepsy. I don't want to only be a patient; I want to contribute to the 
 ## Structure
 
 ```
-exercises/   numbered learning exercises (my code)
+exercises/   one notebook per step (my code)
 notes/       predictions, answers, and what I learned
 data/        datasets (not committed; see data/README.md)
 ```
